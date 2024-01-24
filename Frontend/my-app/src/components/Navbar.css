@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  background-color: #05386B;
+  border-bottom: 0.2rem solid #EDF5e1;
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+}
+
+.container a {
+  color: #EDF5e1;
+  text-decoration: none;
+}
+
+.container h1 {
+  margin: 0;
+}
